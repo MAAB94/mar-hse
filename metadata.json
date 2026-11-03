@@ -1,0 +1,6 @@
+{
+  "name": "Maritime HSE Intelligence & Management System",
+  "description": "Enterprise Health, Safety & Environment (HSE) management suite with accessible responsive layouts, field observation tracking, Stop Work Authority analytics, and rig health intelligence.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
